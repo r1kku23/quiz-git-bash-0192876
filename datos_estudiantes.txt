@@ -1,0 +1,1 @@
+ nombre:julian garcia,programa:ing de sistemas,codigo:0192876,asignatura:mant de comp y desarrolo de app web,fecha:3/09/2026

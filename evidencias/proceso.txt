@@ -1,0 +1,1 @@
+se empieza a configurar con los cmd's git --global user.name y user.email,despues se crea la carpeta y los archivos con touch y mkdir
